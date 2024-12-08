@@ -1,0 +1,16 @@
+.count {
+  color: blue;
+
+  .count-value {
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  .increase,
+  .decrease {
+    font-size: 1.5em;
+    margin-right: 8px;
+    width: 30px;
+    height: 30px;
+  }
+}
